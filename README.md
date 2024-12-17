@@ -38,5 +38,5 @@ width="200"/>
 ## 📊 My statistics
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrinaAstakhova&theme=darcula" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrinaAstakhova&theme=darcula" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IrinaAstakhova&theme=darcula" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrinaAstakhova&theme=darcula" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrinaAstakhova&theme=darcula" />
 </div>
