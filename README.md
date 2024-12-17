@@ -1,4 +1,4 @@
-## <p align="center">👋🏻 Hi, my dear friends, my name is Irina 👩🏻‍💻</p>
+## <p align="center">👋🏻 Hi, my name is Irina 👩🏻‍💻 <br><br> 📙 I'm junior Web Developer 🤓</p>
 
 <p align="center">📬 My contacts</p>
 <div align="center">
@@ -11,9 +11,15 @@
 width="200"/>
 </div>
 
+🍃 **About me**
+
+* 🌍 I'm leaving in Rostov-on-Don, Russia
+* 📒 I'm learning JavaScript
+* :globe_with_meridians: I plan to study new framework React in the near future
+* 😺🐶 I have a cat and a dog
 
 
-
+<br>
 
 ## ⚙️ Languages and tools
 <div>  
@@ -27,6 +33,7 @@ width="200"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"   title="git" width="50" heght="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"   title="figma" width="50" heght="50"/>
 </div>
+<br>
 
 ## 📊 My statistics
 <div>
