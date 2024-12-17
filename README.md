@@ -1,4 +1,6 @@
 ## <p align="center">👋🏻 Hi, my dear friends, my name is Irina 👩🏻‍💻</p>
+
+<p align="center">📬 My contacts</p>
 <div align="center">
 <a href="https://t.me/irentoday"><img src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=fcbb50" width="30"/></a>
 <a href="mailto:aiv0601@gmail.com"><img src="https://img.icons8.com/?size=100&id=YRRhCXfA0Vd0&format=png&color=FAB005" width="30"/></a>
@@ -9,17 +11,24 @@
 width="200"/>
 </div>
 
-## Languages and tools
+
+
+
+
+## ⚙️ Languages and tools
 <div>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="html" width="50" heght="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"   title="css" width="50" heght="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"   title="js" width="50" heght="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"   title="npm" width="50" heght="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"   title="vscode" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   title="github" width="50" heght="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"   title="nodejs" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"   title="git" width="50" heght="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"   title="figma" width="50" heght="50"/>
 </div>
 
-## My statistic
+## 📊 My statistics
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrinaAstakhova&theme=darcula" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrinaAstakhova&theme=darcula" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IrinaAstakhova&theme=darcula" /> 
