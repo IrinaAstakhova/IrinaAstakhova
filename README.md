@@ -8,7 +8,19 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDE4emc0OWo2YmxlZ2pienpnNnhhMnB5c2dsenNjb3lzcTUxbHk2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3kPDmoWdBpQPNhCnUG/giphy.gif"
 width="200"/>
 </div>
-<div align="center">
+
+## Languages and tools
+<div>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="html" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"   title="css" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"   title="js" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"   title="npm" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"   title="vscode" width="50" heght="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"   title="figma" width="50" heght="50"/>
+</div>
+
+## My statistic
+<div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrinaAstakhova&theme=darcula" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrinaAstakhova&theme=darcula" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IrinaAstakhova&theme=darcula" /> 
 </div>
