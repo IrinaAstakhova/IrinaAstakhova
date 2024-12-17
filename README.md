@@ -36,7 +36,7 @@ width="200"/>
 <br>
 
 ## 📊 My statistics
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrinaAstakhova&theme=darcula" /> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrinaAstakhova&theme=darcula" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrinaAstakhova&theme=darcula" />
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrinaAstakhova&theme=date_night)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrinaAstakhova&theme=date_night) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrinaAstakhova&theme=date_night)
+
